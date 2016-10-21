@@ -52,5 +52,11 @@
     "avatar": "https://en.gravatar.com/userimage/12182510/cf87b046cafdcf590c657bdaf97e7527.jpeg",
     "city": "Westford",
     "tz": "America/New_York"
+  },
+{
+    "name": "Brett",
+    "avatar": "https://avatars1.githubusercontent.com/u/4692674?v=3&s=466",
+    "city": "Austin",
+    "tz": "America/Chicago"
   }
 ]
