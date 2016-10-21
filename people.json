@@ -16,5 +16,11 @@
     "avatar": "https://mojo.redhat.com/profile-image-display.jspa?imageID=4969&size=1000",
     "city": "Boston",
     "tz": "America/New_York"
+  },
+  {
+    "name": "Christph",
+    "avatar": "https://pbs.twimg.com/profile_images/766228716091506689/37cJLAB1.jpg",
+    "city": "Bonn",
+    "tz": "Eurpoe/Berlin"
   }
 ]
