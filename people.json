@@ -23,4 +23,10 @@
     "city": "Bonn",
     "tz": "Eurpoe/Berlin"
   }
+  {
+    "name": "Peter",
+    "avatar": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk7AAAAJDJjYjEwNzVjLTU3ODUtNDcwMC1hYTJjLWJkOGViNzA2YTBhZA.jpg",
+    "city": "Winchester",
+    "tz": "Europe/London"
+  }
 ]
