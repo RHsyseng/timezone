@@ -34,5 +34,11 @@
     "avatar": "http://bit.ly/2e74D8W",
     "city": "Brno",
     "tz": "Europe/Belgrade"
+  },
+  {
+    "name": "Aaron",
+    "avatar": "https://en.gravatar.com/userimage/12182510/cf87b046cafdcf590c657bdaf97e7527.jpeg",
+    "city": "Westford",
+    "tz": "America/New_York"
   }
 ]
