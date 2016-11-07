@@ -6,6 +6,18 @@
     "tz": "America/Matamoros"
   },
   {
+    "name": "Rayford",
+    "avatar": "https://pbs.twimg.com/profile_images/3234455291/2ea47a2d20667310fdb93e3ef9bc9caf.jpeg",
+    "city": "Austin",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "John H",
+    "avatar": "https://secure.gravatar.com/userimage/106602702/4001a370bae58142857b26bb737fcdd9",
+    "city": "Austin",
+    "tz": "America/Chicago"
+  },
+  {
     "name": "Roger",
     "avatar": "https://avatars0.githubusercontent.com/u/8877333?v=3&s=466",
     "city": "Austin",
@@ -13,13 +25,13 @@
   },
   {
     "name": "Dirk",
-    "avatar": "https://mojo.redhat.com/profile-image-display.jspa?imageID=3663&size=200",
+    "avatar": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/000/1d0/3ee/2eec0b3.jpg",
     "city": "Munich",
     "tz": "Europe/Berlin"
   },
   {
     "name": "Daniel",
-    "avatar": "https://mojo.redhat.com/profile-image-display.jspa?imageID=4969&size=1000",
+    "avatar": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/0a7/364/36b79a3.jpg",
     "city": "Boston",
     "tz": "America/New_York"
   },
@@ -28,6 +40,12 @@
     "avatar": "https://pbs.twimg.com/profile_images/766228716091506689/37cJLAB1.jpg",
     "city": "Bonn",
     "tz": "Europe/Berlin"
+  },
+  {
+    "name": "James (purpleidea)",
+    "avatar": "https://dl.dropboxusercontent.com/u/48553683/purpleidea-headshot-400x400.png",
+    "city": "Montreal",
+    "tz": "Pacific/Gambier"
   },
   {
     "name": "Peter",
@@ -46,5 +64,41 @@
     "avatar": "https://en.gravatar.com/userimage/12182510/cf87b046cafdcf590c657bdaf97e7527.jpeg",
     "city": "Westford",
     "tz": "America/New_York"
+  },
+  {
+    "name": "Brett",
+    "avatar": "https://avatars1.githubusercontent.com/u/4692674?v=3&s=466",
+    "city": "Austin",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Chandler",
+    "avatar": "https://avatars1.githubusercontent.com/u/4529229?v=3&s=140",
+    "city": "Houston",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Babak",
+    "avatar": "https://lh3.googleusercontent.com/SLC1CD5jQEhRVAj3OC3Utxo2N8c1BBp3SMOCTsiGet14EPZOPU4mwD3G8HOZ2j-1vmocvfUW_b0=w3240-h2025-rw-no",
+    "city": "Los Angeles",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Scott McCarty",
+    "avatar": "http://s.gravatar.com/avatar/983b48fd25d27360ee91ead46c0c912e?s=200",
+    "city": "Akron",
+    "tz": "America/New_York"
+  },
+  {
+      "name": "Ryan Cook",
+      "avatar": "https://media.licdn.com/media/p/2/000/0ae/11b/31ab42b.jpg",
+      "city": "Durham",
+      "tz": "America/New_York"
+  },
+  {
+      "name": "Mark Lamourine",
+      "avatar": "https://photos.google.com/album/AF1QipM-8UE0-tPwB7MPmn7NFUHGbP5PwWpQh_ktXBai/photo/AF1QipNguDfS1a-CRmG1k9YspNKIqOMLJRWVVNGsVq2o",
+      "city": "Westford",
+      "tz": "America/New_York"
   }
 ]
